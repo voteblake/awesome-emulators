@@ -14,7 +14,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
   - [Atari 7800](#atari7800)
   - [Atari Lynx](#atarilynx)
   - [Atari Jaguar](#atarijaguar)
-- [Adobe Flash Player](#adobeflashplayer)
+- [Adobe Flash Player](#adobe-flash-player)
 - [Microsoft](#microsoft)
   - [Xbox](#xbox)
   - [Xbox 360](#xbox360)
