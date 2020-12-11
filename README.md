@@ -14,6 +14,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
   - [Atari 7800](#atari7800)
   - [Atari Lynx](#atarilynx)
   - [Atari Jaguar](#atarijaguar)
+- [Adobe Flash Player](#adobeflashplayer)
 - [Microsoft](#microsoft)
   - [Xbox](#xbox)
   - [Xbox 360](#xbox360)
@@ -66,6 +67,10 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### Atari Jaguar
 
 - [Virtual Jaguar](http://icculus.org/virtualjaguar/) - Virtual Jaguar is an open-source Atari Jaguar emulator.
+
+## Adobe Flash Player
+
+- [Ruffle](https://ruffle.rs/) - Ruffle is an Adobe Flash Player emulator written in the Rust programming language. Ruffle targets both the desktop and the web using WebAssembly.
 
 ## Microsoft
 
